@@ -1,50 +1,29 @@
-# 📄 Evidencia talento Lab.docx
+# Evidencia talento Lab.docx
 
-### Evidencias
+Evidencias
 
-### BUGS
+BUGS
 
-### Realiza registro con campo nombre menos a 3 caracteres
+Realiza registro con campo nombre menos a 3 caracteres
 
-### Realiza el registro sin el @
+|  |  |
+| --- | --- |
+| TC-02 | Registro de usuario (NOMBRE )invalido |
 
-### Contraseña debil
+Realiza el registro sin el @
 
-### Validacion de carga de Cv (formato png)
+|  |  |
+| --- | --- |
+| TC-04 | Registro de usuario (CORREO ELECTRONICO) invalido |
 
-### 📊 Tabla 1
+Contraseña debil
 
-<table>
-  <tr>
-    <th>TC-02</th>
-    <th>Registro de usuario (NOMBRE )invalido</th>
-  </tr>
-</table>
+|  |  |
+| --- | --- |
+| TC-06 | Registro de usuario (CONTRASEÑA) invalido |
 
-### 📊 Tabla 2
+Validacion de carga de Cv (formato png)
 
-<table>
-  <tr>
-    <th>TC-04</th>
-    <th>Registro de usuario (CORREO ELECTRONICO) invalido</th>
-  </tr>
-</table>
-
-### 📊 Tabla 3
-
-<table>
-  <tr>
-    <th>TC-06</th>
-    <th>Registro de usuario (CONTRASEÑA) invalido</th>
-  </tr>
-</table>
-
-### 📊 Tabla 4
-
-<table>
-  <tr>
-    <th>TC-08</th>
-    <th>Validacion de carga de Cv invalido formato png</th>
-  </tr>
-</table>
-
+|  |  |
+| --- | --- |
+| TC-08 | Validacion de carga de Cv invalido formato png |
