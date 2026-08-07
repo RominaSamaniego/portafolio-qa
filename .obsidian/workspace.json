@@ -11,10 +11,14 @@
             "id": "07dcf039bc373d0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "README"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.39453125
   },
   "right": {
     "id": "1b27ac61ede9e5b2",
@@ -186,17 +190,17 @@
   },
   "active": "07dcf039bc373d0c",
   "lastOpenFiles": [
-    "02_Proyectos_Academicos/README.md",
     "01_Proyecto_Farmacia_DRahorro/README.md",
-    "Tabla_de_decision-DRahorro.md",
+    "02_Proyectos_Academicos/README.md",
     "02_Proyectos_Academicos/UTN/Id_trabajo_integrador_UTN_del_caso_de_prueba_1.md",
     "02_Proyectos_Academicos/UTN/Doc1_Trabajo_integrador_utn.md",
     "02_Proyectos_Academicos/BsAs_Aprende/Preentrega_-_QA.md",
     "02_Proyectos_Academicos/BsAs_Aprende/Evidencia_talento_Lab.md",
+    "01_Proyecto_Farmacia_DRahorro/05_Gestion_de_Defectos/bugs-DRahorro.md",
+    "Tabla_de_decision-DRahorro.md",
     "02_Proyectos_Academicos/UTN",
     "02_Proyectos_Academicos/BsAs_Aprende",
     "02_Proyectos_Academicos",
-    "01_Proyecto_Farmacia_DRahorro/05_Gestion_de_Defectos/bugs-DRahorro.md",
     "01_Proyecto_Farmacia_DRahorro/04_Casos_de_Prueba/Romina_Samaniego_-_Casos_de_Prueba_plantilla_de_reporte_de_pruebas-_Contactos-DRahorro.md",
     "01_Proyecto_Farmacia_DRahorro/04_Casos_de_Prueba/Casos_de_Prueba_-_Contactos-DRahorro.md",
     "01_Proyecto_Farmacia_DRahorro/04_Casos_de_Prueba/5.4_Casos_de_prueba-DRahorro-cascada-28_casos_en_total.md",
