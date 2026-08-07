@@ -1,15 +1,16 @@
-# Id_trabajo integrador_UTN_del caso de prueba.docx 1.docx
+# 📄 Documento: Id_trabajo integrador_UTN_del caso de prueba.docx 1.docx
 
-## Tabla 1
+### 📊 Tabla 1
 
 | Id del caso de prueba: | Login-001 |
+|---|---|
 | Nombre del caso | VISTA DE E-COMMERCE |
-| Objetivo | Verificar listado de productos de la Tienda,para compra |
+| Objetivo | Verificar listado de productos de la<br>Tienda,para compra |
 | Tipo de testing | FUNCIONAL |
 | Requerimiento | N/A |
 | Prioridad | Alta |
 | ambiente | Producción |
-| Precondiciones | El sistema debe estar en inglés El precio debe estar en pesos Precio producto 0>=1000 Color letras negro Solo mostrar productos con stock |
+| Precondiciones | El sistema debe estar en inglés<br>El precio debe estar en pesos<br>Precio producto 0>=1000<br>Color letras negro<br>Solo mostrar productos con stock |
 | Pasos | Resultado Esperado |
 | 1. Ingresar a la página https://www.demoblaze.com/index.html | 1. Debería cargar el home de la página y tendría que visualizarse |
 | 2. ir a la sección CATEGORIES | 2. Debería cargar LISTA DE PRODUCTOS |
