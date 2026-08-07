@@ -1,27 +1,158 @@
-# 📄 Documento: Tabla de decision-DRahorro.xlsx
+# 📄 Tabla de decision-DRahorro.xlsx
 
 ## 📑 Hoja: Hoja 1
 
-| Tabla clases de decisión | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 |
-|---|---|---|---|---|
-| Test id | Regla 1 | Regla 2 | Regla 3 | Regla 4 |
-|  | Si compro 1 te llevas el otro de regalo 2x1 | Si es jueves te llevas 20% de descuento en tu compra | Descuentos del 15% para la primera compra | Si soy cliente 5% de descuento |
-| 1.nuevo cliente (se registra por primera vez) | Si | SI | Si | No |
-| 2.Cliente habitual (Pedro) | NO | SI | NO | No |
-| 3.(Lucas) | Si | No | No | No |
-| 4.(Javier) | No | No | NO | SI |
-| 5.(Romina ) | Si | Si | NO | Si |
-| 6.(Lizeth) | No | Si | NO | Si |
-| 7.(Sabrina(registra primera vez) | Si | No | Si | No |
-| 8.(Rocio) | Si | SI | NO | No |
-| CONDICION N° |  |  |  |  |
-| ACCION 1 | 2x1 | 0.2 | 0.15 |  |
-| ACCION 2 |  | 0.2 |  |  |
-| ACCION 3 | 2x1 |  |  |  |
-| ACCION 4 |  |  |  | 0.05 |
-| ACCION 5 | 2x1 | 0.2 |  | 0.05 |
-| ACCION 6 | 2x1 | 0.2 |  | 0.05 |
-| ACCION 7 | 2x1 |  | 0.15 |  |
-| ACCION 8 | 2x1 | 0.2 |  |  |
-| DESCUENTOS | 2X1 | 0.2 | 0.12 | 0.05 |
+<table>
+  <thead>
+    <tr>
+      <th>Tabla clases de decisión</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Test id</td>
+      <td>Regla 1</td>
+      <td>Regla 2</td>
+      <td>Regla 3</td>
+      <td>Regla 4</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Si compro 1 te llevas el otro de regalo 2x1</td>
+      <td>Si es jueves te llevas 20% de descuento en tu compra</td>
+      <td>Descuentos del 15% para la primera compra</td>
+      <td>Si soy cliente 5% de descuento</td>
+    </tr>
+    <tr>
+      <td>1.nuevo cliente (se registra por primera vez)</td>
+      <td>Si</td>
+      <td>SI</td>
+      <td>Si</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>2.Cliente habitual (Pedro)</td>
+      <td>NO</td>
+      <td>SI</td>
+      <td>NO</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>3.(Lucas)</td>
+      <td>Si</td>
+      <td>No</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>4.(Javier)</td>
+      <td>No</td>
+      <td>No</td>
+      <td>NO</td>
+      <td>SI</td>
+    </tr>
+    <tr>
+      <td>5.(Romina )</td>
+      <td>Si</td>
+      <td>Si</td>
+      <td>NO</td>
+      <td>Si</td>
+    </tr>
+    <tr>
+      <td>6.(Lizeth)</td>
+      <td>No</td>
+      <td>Si</td>
+      <td>NO</td>
+      <td>Si</td>
+    </tr>
+    <tr>
+      <td>7.(Sabrina(registra primera vez)</td>
+      <td>Si</td>
+      <td>No</td>
+      <td>Si</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>8.(Rocio)</td>
+      <td>Si</td>
+      <td>SI</td>
+      <td>NO</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>CONDICION N°</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ACCION 1</td>
+      <td>2x1</td>
+      <td>0.2</td>
+      <td>0.15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ACCION 2</td>
+      <td></td>
+      <td>0.2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ACCION 3</td>
+      <td>2x1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ACCION 4</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>0.05</td>
+    </tr>
+    <tr>
+      <td>ACCION 5</td>
+      <td>2x1</td>
+      <td>0.2</td>
+      <td></td>
+      <td>0.05</td>
+    </tr>
+    <tr>
+      <td>ACCION 6</td>
+      <td>2x1</td>
+      <td>0.2</td>
+      <td></td>
+      <td>0.05</td>
+    </tr>
+    <tr>
+      <td>ACCION 7</td>
+      <td>2x1</td>
+      <td></td>
+      <td>0.15</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>ACCION 8</td>
+      <td>2x1</td>
+      <td>0.2</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DESCUENTOS</td>
+      <td>2X1</td>
+      <td>0.2</td>
+      <td>0.12</td>
+      <td>0.05</td>
+    </tr>
+  </tbody>
+</table>
 

@@ -1,4 +1,4 @@
-# 📄 Documento: Evidencia talento Lab.docx
+# 📄 Evidencia talento Lab.docx
 
 ### Evidencias
 
@@ -14,21 +14,37 @@
 
 ### 📊 Tabla 1
 
-| TC-02 | Registro de usuario (NOMBRE )invalido |
-|---|---|
+<table>
+  <tr>
+    <th>TC-02</th>
+    <th>Registro de usuario (NOMBRE )invalido</th>
+  </tr>
+</table>
 
 ### 📊 Tabla 2
 
-| TC-04 | Registro de usuario (CORREO ELECTRONICO) invalido |
-|---|---|
+<table>
+  <tr>
+    <th>TC-04</th>
+    <th>Registro de usuario (CORREO ELECTRONICO) invalido</th>
+  </tr>
+</table>
 
 ### 📊 Tabla 3
 
-| TC-06 | Registro de usuario (CONTRASEÑA) invalido |
-|---|---|
+<table>
+  <tr>
+    <th>TC-06</th>
+    <th>Registro de usuario (CONTRASEÑA) invalido</th>
+  </tr>
+</table>
 
 ### 📊 Tabla 4
 
-| TC-08 | Validacion de carga de Cv invalido formato png |
-|---|---|
+<table>
+  <tr>
+    <th>TC-08</th>
+    <th>Validacion de carga de Cv invalido formato png</th>
+  </tr>
+</table>
 
