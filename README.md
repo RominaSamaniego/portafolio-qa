@@ -98,7 +98,7 @@ Si eres reclutador o líder técnico y deseas revisar directamente la documentac
 
 ## 📮 Contacto y Redes
 
-* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/)
+* **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/rominasamaniego/)
 * **Correo Electrónico:** [rolizeth94@gmail.com](mailto:rolizeth94@gmail.com)
 * **Ubicación:** Buenos Aires, Argentina
 
